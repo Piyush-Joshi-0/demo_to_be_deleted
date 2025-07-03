@@ -87,6 +87,9 @@ pip install -r requirements.txt
 cd frontend
 npm install
 ```
+![Screenshot 2025-07-03 174920](https://github.com/user-attachments/assets/ee5ec48b-e1d9-4c95-a868-6e3433719d41)
+![Screenshot 2025-07-03 174437](https://github.com/user-attachments/assets/65a7df74-637a-47a2-a292-4f9c7e507079)
+![Screenshot 2025-07-03 174711](https://github.com/user-attachments/assets/231e4953-1f13-42c9-be08-45fa4822b282)
 
 ## 🎯 Use Cases
 
