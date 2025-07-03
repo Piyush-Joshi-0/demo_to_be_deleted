@@ -129,5 +129,5 @@ To contribute:
 ## 📫 Connect With Me
 
 - 🌐 Website: [link will work when ready](https://yourwebsite.com)  
-- 📨 Email: [yourname@example.com](https://zatch3030@gmail.com)
+- 📨 Email: [my email](https://zatch3030@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/piyush-profile](https://www.linkedin.com/in/piyushjoshi0303)
