@@ -130,4 +130,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)  
 - 📨 Email: yourname@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/piyushjoshi0303/))
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/piyushjoshi0303/)
