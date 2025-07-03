@@ -7,7 +7,7 @@ The **Emotionally Intelligent Therapist** is an AI-driven virtual therapy projec
 ## 📽️ Demo Video
 
 > 🎬 Watch the full video demo:  
-[![Watch the demo](https://www.youtube.com/watch?v=PulKlAZRoAY)
+[![Watch the demo](https://www.youtube.com/watch?v=PulKlAZRoAY)](https://www.youtube.com/watch?v=PulKlAZRoAY)
 
 ---
 
