@@ -7,7 +7,7 @@ The **Emotionally Intelligent Therapist** is an AI-driven virtual therapy projec
 ## 📽️ Demo Video
 
 > 🎬 Watch the full video demo:  
-[![Watch the demo](https://img.youtube.com/vi/YourVideoID/0.jpg)](https://www.youtube.com/watch?v=YourVideoID)
+[![Watch the demo](https://www.youtube.com/watch?v=PulKlAZRoAY)
 
 ---
 
@@ -122,12 +122,12 @@ To contribute:
 5. Open a Pull Request  
 ## 📃 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)  
-- 📨 Email: yourname@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/piyushjoshi0303)
+- 🌐 Website: [link will work when ready](https://yourwebsite.com)  
+- 📨 Email: [yourname@example.com](https://zatch3030@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/piyush-profile](https://www.linkedin.com/in/piyushjoshi0303)
